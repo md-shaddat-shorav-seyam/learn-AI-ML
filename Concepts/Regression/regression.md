@@ -33,7 +33,7 @@ Predict house price from size:
 Regression finds the best-fit relationship between variables.
 
 ### Simple equation:
-```latex
+```tex
 [
 y = mx + b
 ]
