@@ -55,7 +55,7 @@ Where:
 # A. Linear Regression
 
 ### Equation:
-```latex
+```tex
 [
 y = \beta_0 + \beta_1 x + \epsilon
 ]
