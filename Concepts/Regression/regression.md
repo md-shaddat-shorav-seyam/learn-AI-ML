@@ -1,5 +1,5 @@
 # Regression — Full Concept Guide
-
+link of chatgpt https://chatgpt.com/c/6a0413df-8600-8320-b447-ad17fc0aed7a
 
 
 
