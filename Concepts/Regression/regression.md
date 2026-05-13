@@ -55,11 +55,11 @@ Where:
 # A. Linear Regression
 
 ### Equation:
-
+```latex
 [
 y = \beta_0 + \beta_1 x + \epsilon
 ]
-
+```
 ### Idea:
 
 Fits a straight line to data.
